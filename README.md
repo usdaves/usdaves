@@ -19,5 +19,5 @@ Nothing in here yet :(
 Currently, B.S Computer Science Student at [TUIT](https://tuit.uz/en/site/index), and also I'm learning Android Development at [PDP Academy](https://online.pdp.uz/)
 
 ## Contact
-If you'd like to contact me, you can reach me on [Linkedin](https://www.linkedin.com/in/usmonzzz/) or [Telegram](https://t.me/usmonzzz)
+If you'd like to contact me, you can reach me on [Linkedin](https://www.linkedin.com/in/usdaves/) or [Telegram](https://t.me/usdaves)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
